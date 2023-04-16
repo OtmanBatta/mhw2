@@ -58,7 +58,7 @@
     background-color: #e0e0e0;
 }
 
-@media (max-width:700px){
+@media (max-width:700px) {
     article {
         width: 95%;
     }
